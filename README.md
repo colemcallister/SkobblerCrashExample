@@ -10,7 +10,7 @@ Some files have been removed because they are sensitive
 ** SKMaps.jar
 ** SKMaps.zip
 
-To create the leak
+To create the crash
 * 1 Launch app
 * 2 Go to the map page
 * 3 Press the "GO TO OTHER ACTIVITY" button
